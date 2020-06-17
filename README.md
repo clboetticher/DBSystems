@@ -4,7 +4,7 @@
 
 The portfolio of projects in this repository cover the following:
 
-* A1: Data Analysis with SQLalchemy
+* A1: Data analysis with SQLalchemy
 * A2: SQL and geospatial queries for data retrieval (Chicago Crime data set and Police Stations data set)
 * A3: Data cleaning
 * A4: NoSQL queries and output analysis (Chicago food safety inspections data set)
